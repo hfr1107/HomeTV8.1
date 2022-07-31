@@ -3,7 +3,6 @@
   <paths>
     <external-path path="" name="download" />
   </paths>
-</resources>
 <paths>
     <cache-path
         name="vod_cache_path"
@@ -24,3 +23,4 @@
         name="beta_external_files_path"
         path="Android/data/" />
 </paths>
+</resources>
