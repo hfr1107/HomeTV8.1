@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <paths>
+    <external-path path="" name="download" />
+  </paths>
+</resources>
 <paths>
     <cache-path
         name="vod_cache_path"
